@@ -1,3 +1,8 @@
+/*Program to find Automorphic number
+Automorphic number: A number is called an automorphic number if and only if the square of the given number ends with the same number itself
+Ex: 5^2 = 25 (ends with 5)
+    376^2 = 141376 (ends with 376) */
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
