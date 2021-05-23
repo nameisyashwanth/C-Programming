@@ -1,3 +1,9 @@
+/*Program to find Friendly pair
+Friendly pair: friendly numbers are two or more natural numbers with a common abundancy index, the ratio between the sum of divisors of a number and the number itself.
+Ex: 220 and 284
+     sum of factors of 284 = 220
+     sum of factors of 220 = 284   */
+
 #include<stdio.h>
 int main()
 {
