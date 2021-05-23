@@ -1,3 +1,9 @@
+/*Program to find Abundant number
+Abundant number: an abundant number or excessive number is a number that is smaller than the sum of its proper divisors.
+Ex: 18 divisors of 18: 1,2,3,6,9
+     1+2+3+6+9 = 21
+     21 > 18   */
+
 #include<stdio.h>
 #include<math.h>
 int main()
