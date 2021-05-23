@@ -1,3 +1,5 @@
+/*Program to find prime numbers i given range*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
