@@ -1,3 +1,7 @@
+/*Program to find whether the number is strong number or not
+Strong Numer: Strong number is a special number whose sum of the factorial of digits is equal to the original number
+Ex: 145 = 1! + 4! + 5!  */
+
 #include<stdio.h>
 #include<math.h>
 int main()
